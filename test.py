@@ -1,0 +1,1 @@
+print (len('The first president of the organization..'))
